@@ -1,5 +1,7 @@
 # Super Mario Bros. Clone
 
+[中文版](README_zh.md) | [English](README.md)
+
 A classic 2D platformer game inspired by Super Mario Bros., built with vanilla JavaScript and HTML5 Canvas.
 
 ## Features
