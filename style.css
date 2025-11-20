@@ -1,0 +1,26 @@
+body {
+    background-color: #202020;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+#game-container {
+    text-align: center;
+}
+
+canvas {
+    background-color: #5c94fc; /* Classic Mario Sky Blue */
+    image-rendering: pixelated; /* Essential for pixel art */
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    width: 768px; /* 3x scale of 256 */
+    height: 720px; /* 3x scale of 240 */
+}
+
+#ui {
+    margin-top: 10px;
+}
